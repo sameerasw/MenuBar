@@ -163,3 +163,5 @@ X=10
 Y=10
 LeftMouseDownAction=["https://github.com/"]
 ```
+
+Credits to [@DhananjayPorwal](https://github.com/DhananjayPorwal) for the awesome explanation and info in the README.md <3
