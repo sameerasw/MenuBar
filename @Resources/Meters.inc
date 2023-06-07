@@ -1,5 +1,4 @@
 [Variables]
-@IncludeStyle=#@#sStyle.inc
 
 ;[ContainerMeter]
 Meter=Image
